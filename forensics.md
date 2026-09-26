@@ -1,17 +1,4 @@
-# Báo Cáo Lab 03 — Đọc Giao Dịch Và Hợp Đồng Trên Etherscan
 
-**Họ và tên:** *(Điền họ tên của bạn)*  
-**Mã sinh viên:** *(Điền MSSV của bạn)*  
-**Môn học:** Công nghệ Blockchain & Tiền mã hóa  
-**Sản phẩm:** `forensics.md`
-
----
-
-## Bước 1: Mổ xẻ giao dịch của chính mình (Sepolia Testnet)
-
-- **Mã băm giao dịch (Tx Hash):** `0x9f9833db97b1e35a789c6b8eb77f2f71f8f2043db397569e711672ddd10286c3b`
-- **Mạng lưới:** Sepolia Testnet
-- **Trình khám phá:** [Sepolia Etherscan](https://sepolia.etherscan.io/)
 
 ### Bảng 10 trường giao dịch chi tiết
 

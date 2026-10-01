@@ -1,7 +1,7 @@
 # 🎓 ECO2432 — Web3 & Smart Contract Starter
 
 > **Trường Đại học Kinh tế — Đại học Huế (HCE)**  
-> **Khoa:** Hệ thống Thông tin Kinh tế**
+> **Khoa:** Hệ thống Thông tin Kinh tế   
 > **Học phần:** ECO2432 — Tiền điện tử & hợp đồng thông minh  
 > **Giảng viên hướng dẫn:** TS. Hà Ngọc Long  
 > **Sinh viên thực hiện:** Phan Thị Yến Nhi  
